@@ -1,6 +1,6 @@
 # configure.ac
 
-AC_INIT([tmate-ssh-server],[2.3.0])
+AC_INIT([tmate-ssh-server],[2.3.1])
 
 AM_SILENT_RULES([yes])
 AC_CONFIG_AUX_DIR(etc)
